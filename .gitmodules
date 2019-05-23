@@ -1,0 +1,9 @@
+[submodule "registry-tango-lexicons"]
+	path = registry-tango-lexicons
+	url = https://github.com/tangodata/registry-tango-lexicons
+[submodule "registry-tango-cities"]
+	path = registry-tango-cities
+	url = https://github.com/tangodata/registry-tango-cities
+[submodule "registry-tango-meetups"]
+	path = registry-tango-meetups
+	url = https://github.com/tangodata/registry-tango-meetups
