@@ -8,10 +8,15 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "bake": "node lib/index.js"
+    "lexicons": "node lib/merge_lexicons.js",
+    "cities":   "node lib/merge_cities.js"
   },
   "devDependencies": {
     "filewalker": "^0.1.3",
-    "js-yaml": "^3.13.1"
+    "gray-matter": "^4.0.2",
+    "js-yaml": "^3.13.1",
+    "json-stringify-pretty-compact": "^2.0.0",
+    "markdown-it": "^8.4.2",
+    "slugify": "^1.3.4"
   }
 }

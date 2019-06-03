@@ -1,0 +1,670 @@
+{
+  "bkk": {
+    "shortname": "bkk",
+    "shortcountry": "th",
+    "city": "bangkok",
+    "country": "thailand",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "asean",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {
+        "wday": null,
+        "events": [
+          {
+            "name": null,
+            "info": null,
+            "extra": null,
+            "links": ["url"],
+            "organizers": null,
+            "orglinks": ["url"]
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": null,
+        "name": null,
+        "address": null,
+        "barrio": null,
+        "textmessage": null,
+        "blurb": null,
+        "geo": [0, 0]
+      }
+    ],
+    "fblinks": {
+      "groups": [{"name": null, "id": null}],
+      "fanpages": [{"name": null, "id": null}]
+    },
+    "tagline": "Land of Smiles",
+    "hero": ["url"],
+    "maplink": null,
+    "about": "The nice place with hot weather\n",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  },
+  "hkg": {
+    "shortname": "hkg",
+    "shortcountry": "hk",
+    "city": "hongkong",
+    "country": "hongkong sar",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "easia",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {
+        "wday": "Mon",
+        "events": [
+          {
+            "name": "Milonga Lunes",
+            "info": "@ Dance Concept 9pm-1am",
+            "extra": null
+          }
+        ]
+      },
+      {
+        "wday": "Tue",
+        "events": [
+          {
+            "name": "Milonga X",
+            "info": "@ Rula Bula Lan Kwai Fong 9.30pm-1am",
+            "extra": null
+          }
+        ]
+      },
+      {
+        "wday": "Wed",
+        "events": [
+          {"name": "PRACTICA COLDmanCOOL", "info": "Wed", "extra": null}
+        ]
+      },
+      {
+        "wday": "Thu",
+        "events": [
+          {"name": "Milonga Nuevo", "info": null, "extra": null},
+          {
+            "name": "Practica Otro",
+            "info": "@ Ricky Studio 9.15pm-12.15am",
+            "extra": null
+          }
+        ]
+      },
+      {
+        "wday": "Fri",
+        "events": [
+          {
+            "name": "Milonga OTRA Noche",
+            "info": "@ Dance Culture 9.30pm-1.30am",
+            "extra": null
+          },
+          {
+            "name": "TANGUERA \"La Milonga\"",
+            "info": "@ HKU 9.30pm-1am",
+            "extra": null
+          }
+        ]
+      },
+      {
+        "wday": "Sat",
+        "events": [{"name": "Corazon Tango", "info": null, "extra": null}]
+      },
+      {
+        "wday": "Sun",
+        "events": [
+          {
+            "name": "High Tea Milonga",
+            "info": "Some Sun @ Danzstage 4.10pm-7pm",
+            "extra": null
+          },
+          {
+            "name": "Practica Domingos",
+            "info": "Some Sun @ Danzstage 4.30pm-7pm",
+            "extra": null
+          },
+          {
+            "name": "Lido Tango Milonga",
+            "info": "Some Sun @ A&B Dance Academy 8.30pm-midnight",
+            "extra": null
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": "dstage",
+        "name": "Danzstage",
+        "address": null,
+        "textmessage": null,
+        "blurb": null,
+        "barrio": null,
+        "geo": null
+      },
+      {
+        "vid": "dculture",
+        "name": "Dance Culture",
+        "address": null,
+        "blurb": null,
+        "barrio": null,
+        "geo": null
+      },
+      {
+        "vid": "amico",
+        "name": "Amico Studio",
+        "address": null,
+        "textmessage": null,
+        "blurb": null,
+        "barrio": null,
+        "geo": null
+      },
+      {"vid": "otro", "name": "OTROTango Dance Studio"},
+      {"vid": "malevos", "name": "Malevos Tango School"},
+      {"vid": "rula", "name": "Rula Bula (Milonga X)"},
+      {"vid": "dconcept", "name": "Dance Concept"},
+      {"vid": "hku", "name": "Graduate House HKU"},
+      {"vid": "ricky", "name": "Ricky Studio"},
+      {"vid": "ping", "name": "PingPong 129"}
+    ],
+    "fblinks": {
+      "groups": [
+        {"name": "hong kong tango", "id": "811530215594629"},
+        {"name": "tangotang group", "id": "6060653651"},
+        {"name": "la escencia HK Marathon", "id": "893294940758452"},
+        {"name": "Milonga M", "id": "265137943530663"},
+        {"name": "HK Tango Argentino Association", "id": "17574600966"},
+        {"name": "HK Tango Academy", "id": "54648443626"},
+        {"name": "HK Tangueros", "id": "192458114118718"},
+        {"name": "Raymond and Lily OTROTango", "id": "121165124646808"},
+        {"name": "OtroTango new generation", "id": "27734195258"},
+        {"name": "Malevos Tango HK Group", "id": "278786138802855"},
+        {"name": "Milonga Otra Noche", "id": "168854139869607"},
+        {"name": "HK TangoFest Tangotang", "id": "137955449556863"},
+        {"name": "Milonga Nuevo HK", "id": "35516277516"},
+        {"name": "HK Tango Recycle Market", "id": "582041735247545"},
+        {"name": "Milonga de Estrellas", "id": "392211450802679"},
+        {"name": "Star Galaxy Milonga Estrella", "id": "436937713101168"}
+      ],
+      "fanpages": [
+        {"name": "tangotang", "id": "370423291131"},
+        {"name": "trio spin tango", "id": "209624359095817"},
+        {"name": "Kee Tango", "id": "516714478473340"},
+        {"name": "Felipe y Sandra Malevos Tango", "id": "197208837009861"},
+        {"name": "HK Tango Academy Association", "id": "304883586208455"},
+        {"name": "Richard DJ Thoughts", "id": "262424507129770"},
+        {"name": "ECEC Productions", "id": "20261333804"},
+        {"name": "Tango_me_home Clothes", "id": "204062013107852"},
+        {"name": "Feliz Primavera shoes", "id": "18850024307"}
+      ]
+    },
+    "tagline": "City of Possibilities",
+    "hero": "//res.tangueros.net/assets/jumbos/slide_tky_skyline.png",
+    "maplink": null,
+    "about": "",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  },
+  "icn": {
+    "shortname": "icn",
+    "shortcountry": "kr",
+    "city": "seoul",
+    "country": "korea",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "easia",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {
+        "wday": null,
+        "events": [
+          {
+            "name": null,
+            "info": null,
+            "extra": null,
+            "links": ["url"],
+            "organizers": null,
+            "orglinks": ["url"]
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": null,
+        "name": null,
+        "address": null,
+        "barrio": null,
+        "textmessage": null,
+        "blurb": null,
+        "geo": [0, 0]
+      }
+    ],
+    "fblinks": {
+      "groups": [{"name": null, "id": null}],
+      "fanpages": [{"name": null, "id": null}]
+    },
+    "tagline": "Surprise",
+    "hero": ["url"],
+    "maplink": null,
+    "about": "So you know",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  },
+  "sin": {
+    "shortname": "sin",
+    "shortcountry": "sg",
+    "city": "singapore",
+    "country": "singapore",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "asean",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {
+        "wday": "Mon",
+        "events": [{"name": "Practica", "info": "@ UP 9.30pm", "extra": null}]
+      },
+      {
+        "wday": "Tue",
+        "events": [
+          {
+            "name": "Milonga Pura",
+            "info": "@ Lumen Room 9.30pm",
+            "extra": "$10"
+          }
+        ]
+      },
+      {
+        "wday": "Wed",
+        "events": [
+          {
+            "name": "Milonga Del Sur",
+            "info": "@ Abrazos Club 9pm",
+            "extra": "$15"
+          }
+        ]
+      },
+      {
+        "wday": "Thu",
+        "events": [
+          {
+            "name": "Milonga Del Romance",
+            "info": "Monthly @ downtown bars",
+            "extra": "Organised by Jenny"
+          },
+          {"name": "Practica", "info": "@ Lumen Room 9pm", "extra": null}
+        ]
+      },
+      {
+        "wday": "Fri",
+        "events": [
+          {"name": "Los Suenos Milonga", "info": "@ Los Suenos", "extra": "$??"}
+        ]
+      },
+      {
+        "wday": "Sat",
+        "events": [
+          {
+            "name": "San Telmo Milonga",
+            "info": "@ Abrazos Club 8pm",
+            "extra": "$20"
+          },
+          {
+            "name": "Tangopura Milonga",
+            "info": "@ Lumen Room 9.30pm",
+            "extra": "$10"
+          }
+        ]
+      },
+      {
+        "wday": "Sun",
+        "events": [
+          {
+            "name": "Sunday Practilonga",
+            "info": "Sun @ YMCA Orchard",
+            "extra": "$5"
+          },
+          {
+            "name": "SingaTango Tea",
+            "info": "monthly @ Abrazos Club 3-6pm",
+            "extra": "$10"
+          },
+          {
+            "name": "Tangueando (Social Latin mix)",
+            "info": "@ Club 5 8.30pm",
+            "extra": "??"
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": "abz",
+        "name": "Abrazos Club",
+        "address": "568 Ganges Avenue 02-100 (160568)",
+        "textmessage": "+65 9637-3512",
+        "blurb": "Classes, Weekly Milongas",
+        "barrio": "Tiong Bahru",
+        "geo": null
+      },
+      {
+        "vid": "lum",
+        "name": "Lumen Room",
+        "address": "10 Winstedt Road",
+        "blurb": "Classes, weekly milongas.",
+        "barrio": "Newton",
+        "geo": null
+      },
+      {
+        "vid": "enm",
+        "name": "En Motion",
+        "address": "8 Craig Road",
+        "textmessage": "+65 9159-7811",
+        "blurb": "Classes, Weekly Practicas",
+        "barrio": "Tanjong Pagar",
+        "geo": null
+      },
+      {
+        "vid": "los",
+        "name": "Los Suenos",
+        "address": "Craig Road",
+        "barrio": "Tanjong Pagar",
+        "geo": null
+      },
+      {
+        "vid": "c5",
+        "name": "Club 5",
+        "address": "Parkroyal Hotel 7500A Beach Road (199590)",
+        "blurb": "Weekly Milongas",
+        "barrio": "Bugis",
+        "geo": null
+      },
+      {
+        "vid": "ymca",
+        "name": "YMCA Orchard",
+        "address": null,
+        "blurb": null,
+        "barrio": "Dhoby Ghaut",
+        "geo": null
+      },
+      {
+        "vid": "mos",
+        "name": "Mosaic Dance",
+        "address": "222 Queen Street",
+        "address2": "Opposite Hotel Royal @ Queens",
+        "textmessage": "+65 9769 7265",
+        "email": "info@mosaicdance.com.sg",
+        "blurb": "Classes, weekly practicas and milongas",
+        "barrio": "Bras Basah",
+        "geo": null
+      },
+      {
+        "vid": "sup",
+        "name": "Studio Up",
+        "address": "15 Enggor Street",
+        "address2": "Access the lift lobby via the carpark entrance along Bernam Street",
+        "blurb": "Classes, weekly practicas and milongas.",
+        "barrio": "Tanjong Pagar",
+        "geo": null
+      },
+      {
+        "vid": "usq",
+        "name": "Union Square",
+        "address": "100AM The Amara, 100 Tras Street",
+        "voice": "+65 6224-6116",
+        "blurb": "Occasional venue for milongas",
+        "barrio": "Tanjong Pagar",
+        "geo": null
+      },
+      {
+        "vid": "led",
+        "name": "Le Danz",
+        "address": "Waterloo Road",
+        "barrio": "Bras Basah",
+        "geo": null
+      }
+    ],
+    "fblinks": {
+      "groups": [
+        {"name": "tango-this week in singapore", "id": "1578469612403126"},
+        {"name": "tango singapore", "id": "50661258531"},
+        {"name": "singapore tango", "id": "318149464969017"},
+        {"name": "tango nuevo singapore", "id": "201261076594553"},
+        {"name": "san telmo milonga (Sat)", "id": "853982371323862"},
+        {"name": "sunday practilonga", "id": "482197398557034"},
+        {"name": "tango singapore opinion", "id": "443293979060969"},
+        {"name": "SITF festival", "id": "487040184747167"},
+        {"name": "tango lyrical theare", "id": "4801573217"},
+        {"name": "tango seal", "id": "1390510314498198"}
+      ],
+      "fanpages": [
+        {"name": "tango singapore", "id": "1498054700497388"},
+        {"name": "abrazos club", "id": "235855011993"},
+        {"name": "milonga del sur", "id": "300059803435253"},
+        {"name": "los suenos", "id": "1691290561149921"},
+        {"name": "ytango", "id": "168678923472061"},
+        {
+          "name": "singapore international tango festival",
+          "id": "1590106531246260"
+        },
+        {"name": "mosaic", "id": "222388617776590"}
+      ]
+    },
+    "tagline": "The Surprising Singapore",
+    "hero": "//res.tangueros.net/assets/jumbos/slide_sin_skyline.png",
+    "maplink": null,
+    "about": "",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  },
+  "tpe": {
+    "shortname": "tpe",
+    "shortcountry": "tw",
+    "city": "taipei",
+    "country": "taiwan ROC",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "easia",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {"wday": "Mon", "events": null},
+      {
+        "wday": "Tue",
+        "events": [
+          {
+            "name": "Practica Sacale Puna",
+            "info": "Exotic 8pm-11pm",
+            "extra": "NT200"
+          },
+          {
+            "name": "Corazon Reserved Practica",
+            "info": "Corazon 9pm-11pm",
+            "extra": "NT200"
+          }
+        ]
+      },
+      {
+        "wday": "Wed",
+        "events": [
+          {
+            "name": "Milonguita",
+            "info": "Tanguisimo 7.30pm-11.30pm",
+            "extra": "NT250"
+          }
+        ]
+      },
+      {
+        "wday": "Thu",
+        "events": [
+          {"name": "A-Practilonga", "info": "Sport King", "extra": "NT150"}
+        ]
+      },
+      {
+        "wday": "Fri",
+        "events": [
+          {"name": "TAV Practica", "info": "TAV 8pm-11pm", "extra": "NT200"},
+          {
+            "name": "Milonga Guapa",
+            "info": "Tanguisimo 9pm-1.30am",
+            "extra": "NT300"
+          }
+        ]
+      },
+      {
+        "wday": "Sat",
+        "events": [
+          {
+            "name": "Jason Sabrina Practica",
+            "info": "Area 5-1 3pm-4.30pm",
+            "extra": "NT150"
+          },
+          {
+            "name": "Saturday Practica",
+            "info": "Tanguisimo 3.30pm-5pm",
+            "extra": "NT150"
+          },
+          {"name": "Milonga", "info": "Tanguisimo 8pm-1am", "extra": "NT300"},
+          {"name": "Milonga", "info": "Corazon 8pm-1am", "extra": "NT250"},
+          {
+            "name": "Milonga La Vida",
+            "info": "Asi 8.30pm-1.30am",
+            "extra": "NT300"
+          },
+          {
+            "name": "Milonga el Domingo",
+            "info": "Fuego 8.30pm-1.30am",
+            "extra": "NT100 (min NT300)"
+          }
+        ]
+      },
+      {
+        "wday": "Sun",
+        "events": [
+          {
+            "name": "Practica Tango y Cafe",
+            "info": "Tanguisimo 2.30pm-6pm",
+            "extra": "NT 250"
+          },
+          {
+            "name": "Tea Time Milonga",
+            "info": "Asi 3pm-7pm",
+            "extra": "NT 200"
+          },
+          {
+            "name": "Outdoor A Practilonga",
+            "info": "Sun Yat-sen 3pm-6pm",
+            "extra": "free"
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": "tang",
+        "name": "Tanguisimo Tango Space",
+        "address": null,
+        "textmessage": null,
+        "blurb": null,
+        "barrio": null,
+        "geo": null
+      },
+      {
+        "vid": "cor",
+        "name": "Corazon Studio",
+        "address": null,
+        "textmessage": null,
+        "blurb": null,
+        "barrio": null,
+        "geo": null
+      },
+      {"vid": "a51", "name": "Area 5-1"},
+      {"vid": "asi", "name": "Asi Space"},
+      {"vid": "exotic", "name": "Exotic Studio"},
+      {"vid": "fuego", "name": "Fuego"},
+      {"vid": "fuse", "name": "Fuse"},
+      {"vid": "sking", "name": "Sport King Studio"},
+      {"vid": "tav", "name": "TAV Cafe"},
+      {"vid": "sys", "name": "Sun Yat-sen Memorial Hall"}
+    ],
+    "fblinks": {
+      "groups": [
+        {"name": "tango taipei", "id": "386587434854525"},
+        {"name": "taiwan tango club", "id": "347080315402944"},
+        {"name": "taiwan tango marathon", "id": "1494663620822173"},
+        {"name": "tango libre taiwan", "id": "475902802515549"},
+        {"name": "tango in nice places", "id": "474213335975551"},
+        {"name": "La Vida milonga", "id": "324838717678171"},
+        {"name": "Hsinchu tango", "id": "1430797180510627"},
+        {"name": "Kaohsiung tango", "id": "251896038218742"},
+        {"name": "Tainan tango", "id": "203155023355489"},
+        {"name": "Secondhand tango market", "id": "571258962947595"}
+      ],
+      "fanpages": [
+        {"name": "taipei tango festival", "id": "118175298241248"},
+        {"name": "corazon tango", "id": "121993884490898"},
+        {"name": "tav tango", "id": "380598481990384"},
+        {"name": "tango duo", "id": "1696126670670819"},
+        {"name": "ntu tango club", "id": "431788636873354"}
+      ]
+    },
+    "tagline": "City of Light",
+    "hero": "//res.tangueros.net/assets/jumbos/slide_tky_skyline.png",
+    "maplink": null,
+    "about": "something something",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  },
+  "tyo": {
+    "shortname": "tyo",
+    "shortcountry": "jp",
+    "city": "tokyo",
+    "country": "japan",
+    "citylocal": null,
+    "countrylocal": null,
+    "zone": "easia",
+    "continent": "asia",
+    "geo": [0, 0],
+    "gcal": ["url"],
+    "regular": [
+      {
+        "wday": null,
+        "events": [
+          {
+            "name": null,
+            "info": null,
+            "extra": null,
+            "links": ["url"],
+            "organizers": null,
+            "orglinks": ["url"]
+          }
+        ]
+      }
+    ],
+    "venues": [
+      {
+        "vid": null,
+        "name": null,
+        "address": null,
+        "barrio": null,
+        "textmessage": null,
+        "blurb": null,
+        "geo": [0, 0]
+      }
+    ],
+    "fblinks": {
+      "groups": [{"name": null, "id": null}],
+      "fanpages": [{"name": null, "id": null}]
+    },
+    "tagline": "never sleeps",
+    "hero": ["url"],
+    "maplink": null,
+    "about": "the future",
+    "contact": [{"name": null, "email": null, "textmsg": null}]
+  }
+}
