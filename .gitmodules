@@ -10,3 +10,45 @@
 [submodule "registry-tango-domains"]
 	path = registry-tango-domains
 	url = https://github.com/tangodata/registry-tango-domains
+[submodule "registry-tango-films"]
+	path = registry-tango-films
+	url = https://github.com/tangodata/registry-tango-films
+[submodule "registry-tango-books"]
+	path = registry-tango-books
+	url = https://github.com/tangodata/registry-tango-books
+[submodule "registry-tango-rssfeeds"]
+	path = registry-tango-rssfeeds
+	url = https://github.com/tangodata/registry-tango-rssfeeds
+[submodule "registry-tango-streams"]
+	path = registry-tango-streams
+	url = https://github.com/tangodata/registry-tango-streams
+[submodule "registry-tango-zines"]
+	path = registry-tango-zines
+	url = https://github.com/tangodata/registry-tango-zines
+[submodule "registry-tango-brands"]
+	path = registry-tango-brands
+	url = https://github.com/tangodata/registry-tango-brands
+[submodule "registry-tango-apps"]
+	path = registry-tango-apps
+	url = https://github.com/tangodata/registry-tango-apps
+[submodule "registry-tango-stages"]
+	path = registry-tango-stages
+	url = https://github.com/tangodata/registry-tango-stages
+[submodule "registry-tango-biographies"]
+	path = registry-tango-biographies
+	url = https://github.com/tangodata/registry-tango-biographies
+[submodule "registry-tango-century"]
+	path = registry-tango-century
+	url = https://github.com/tangodata/registry-tango-century
+[submodule "registry-tango-milestones"]
+	path = registry-tango-milestones
+	url = https://github.com/tangodata/registry-tango-milestones
+[submodule "registry-tango-mundial"]
+	path = registry-tango-mundial
+	url = https://github.com/tangodata/registry-tango-mundial
+[submodule "registry-tango-pedagogy"]
+	path = registry-tango-pedagogy
+	url = https://github.com/tangodata/registry-tango-pedagogy
+[submodule "cache-tangodata"]
+	path = cache-tangodata
+	url = https://github.com/tangodata/cache-tangodata

@@ -1,9 +1,9 @@
 {
-  "name": "bundle-tangueros",
+  "name": "transformer-tangodata",
   "version": "1.0.0",
   "description": "bundle data and combiner",
   "main": "lib/index.js",
-  "repository": "https://github.com/tangodata/bundle-tangueros",
+  "repository": "https://github.com/tangodata/transformer-tangodata",
   "author": "Kace at Telematique <kaceong@gmail.com>",
   "license": "MIT",
   "private": false,
