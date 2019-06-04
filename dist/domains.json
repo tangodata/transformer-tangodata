@@ -1,0 +1,106 @@
+{
+  "tango-hugs": {
+    "name": "Tango Hugs",
+    "domain": "tangohugs.com",
+    "info": "A modern webstack, tango radios"
+  },
+  "tango-meme-store": {
+    "name": "Tango Meme Store",
+    "domain": "tangomemes.com",
+    "info": "unique clothes and apparel for tango lovers"
+  },
+  "tango-wiki": {
+    "name": "Tango Wiki",
+    "domain": "tangowiki.org",
+    "info": "Wiki for tango, 1750 articles, semantic mediawiki"
+  },
+  "tango-wiki-(dev)": {
+    "name": "Tango Wiki (dev)",
+    "domain": "tangotunes.com.cn",
+    "info": "SMW tango wiki"
+  },
+  "tango-translation": {
+    "name": "Tango Translation",
+    "domain": "tangotranslation.com",
+    "info": "webapp for looking up tango lyrics translations"
+  },
+  "tango-fm": {
+    "name": "Tango FM",
+    "domain": "tangofm.com",
+    "info": "in progress, theme WP"
+  },
+  "tango-tv": {
+    "name": "Tango TV",
+    "domain": "tangotv.tv",
+    "info": "in progress, theme WP"
+  },
+  "my-tango-connection": {
+    "name": "My Tango Connection",
+    "domain": "mytangoconnection.com",
+    "info": "in progress - partnering"
+  },
+  "aires-de-milonga": {
+    "name": "Aires de Milonga",
+    "domain": "airesdemilonga.com",
+    "info": "video producer content"
+  },
+  "tango-forge": {
+    "name": "Tango Forge",
+    "domain": "tangoforge.com",
+    "info": "teach information - Vio"
+  },
+  "very-tango-store": {
+    "name": "Very Tango Store",
+    "domain": "verytangostore.com",
+    "info": "shoe store, info,  - Eran Braverman"
+  },
+  "milonga-in-any-city-worldwide": {
+    "name": "milonga in any city worldwide",
+    "domain": "milonga-in.com",
+    "info": null
+  },
+  "tango-space": {
+    "name": "tango space",
+    "domain": "tango-space.com",
+    "info": null
+  },
+  "tango-mentor": {
+    "name": "tango mentor",
+    "domain": "tangomentor.com",
+    "info": null
+  },
+  "tangology-101": {
+    "name": "tangology 101",
+    "domain": "tangology101.com",
+    "info": null
+  },
+  "tango-principles": {
+    "name": "tango principles",
+    "domain": "tangoprinciples.org",
+    "info": null
+  },
+  "tango-topics": {
+    "name": "tango topics",
+    "domain": "tangotopics.com",
+    "info": null
+  },
+  "tango-soul": {"name": "tango soul", "domain": "tangosoul.org", "info": null},
+  "bautanz": {"name": "Bautanz", "domain": "bautanz.com"},
+  "endre's-tango": {"name": "Endre's tango", "domain": "endretango.com"},
+  "tango-encanto": {"name": "tango encanto", "domain": "tangoencanto.com"},
+  "tango-creativo": {
+    "name": "tango creativo",
+    "domain": "tangocreativo.com",
+    "info": "teaching system, - Juan Miguel Expósito"
+  },
+  "tango-tribe": {
+    "name": "tango tribe",
+    "domain": "tangotribe.com",
+    "info": "school and studios"
+  },
+  "escuela-tango-ba": {
+    "name": "escuela tango BA",
+    "domain": "escuelatangoba.com",
+    "info": "marcelo solis"
+  }
+}

@@ -8,7 +8,13 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "domains":  "node lib/merge_domains.js",
+
+    "films":    "node lib/merge_films.js",
+
     "lexicons": "node lib/merge_lexicons.js",
+
+    "meetups":  "node lib/merge_meetups.js",
     "cities":   "node lib/merge_cities.js"
   },
   "devDependencies": {

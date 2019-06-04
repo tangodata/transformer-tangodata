@@ -7,3 +7,6 @@
 [submodule "registry-tango-meetups"]
 	path = registry-tango-meetups
 	url = https://github.com/tangodata/registry-tango-meetups
+[submodule "registry-tango-domains"]
+	path = registry-tango-domains
+	url = https://github.com/tangodata/registry-tango-domains
